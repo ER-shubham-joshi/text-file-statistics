@@ -122,4 +122,5 @@ The Text File Statistics Application allows users to upload a text file and rece
 
 ## How It Works
 
-![text-file-statistics](https://github.com/user-attachments/assets/fca31b58-27f4-4f9b-8718-5369fffa8b22)
+![text-file-statistics](https://github.com/user-attachments/assets/3964e0cd-209b-4f1b-8b7f-4f11fe341f01)
+
