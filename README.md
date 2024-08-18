@@ -119,3 +119,8 @@ The Text File Statistics Application allows users to upload a text file and rece
 
 - Ensure both the server and frontend are running simultaneously for full application functionality.
 - The frontend communicates with the backend via POST requests to `http://localhost:5000/upload`.
+
+## How It Works
+
+![text-file-statistics](https://github.com/user-attachments/assets/fca31b58-27f4-4f9b-8718-5369fffa8b22)
+
